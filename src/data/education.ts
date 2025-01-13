@@ -18,7 +18,7 @@ export const educationData: Education[] = [
   {
     year: "2016—2018",
     institution: "Ramakrishna Mission Vivekananda Educational and Research Institute",
-    degree: "M.S. in Computer Science",
+    degree: "M.Sc. in Computer Science",
     thesis: "A Medoid-Based Weighting Scheme for Qualitative Improvement of Nearest Neighbor Decision Rule",
     // Optional links to thesis
     // thesisUrl: "https://dspace.mit.edu/handle/1721.1/149111"

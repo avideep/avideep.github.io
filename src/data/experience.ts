@@ -42,7 +42,7 @@ export const experienceData: Experience[] = [
     company: "Indian Statistical Institute, Kolkata",
     description:
       "Worked on developing classical solutions to unconstrained video recognition using SIFT and HOG features.",
-    manager: "Prof. Partha Pratim Mohanty",
+    advisor: "Prof. Partha Pratim Mohanty",
     companyUrl: "https://isical.ac.in",
   },
 ];
