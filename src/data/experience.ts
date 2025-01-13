@@ -25,7 +25,7 @@ export const experienceData: Experience[] = [
     description:
       "Developed novel algorithms for prediction of PM 2.5 concentration in the environment.",
     advisor: "Prof. Sachida Nand Tripathi & Prof. Piyush Rai",
-    companyUrl: "www.iitk.ac.in",
+    companyUrl: "https://iitk.ac.in",
   },
   {
     date: "Summer 2021",
