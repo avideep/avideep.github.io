@@ -10,21 +10,39 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
-    date: "Summer 2023",
-    title: "Research Intern",
-    company: "DeepMind",
+    date: "January 2025 - Present",
+    title: "Senior AI Researcher",
+    company: "Dolby Laboratories Inc.",
     description:
-      "Developed novel algorithms for causal structure learning in reinforcement learning settings",
-    advisor: "Peter Wang",
-    companyUrl: "https://deepmind.com",
+      "Working on Computer Vision, Generative Modelling and Attribution",
+    manager: "Claus Bauer",
+    companyUrl: "https://dolby.com",
   },
   {
-    date: "Summer 2022",
-    title: "Research Intern",
-    company: "Google Research",
+    date: "August 2022 - December 2024",
+    title: "Senior Student Research Associate",
+    company: "Indian Institute of Technology Kanpur",
     description:
-      "Worked on improving robustness of large language models to distribution shifts",
-    manager: "Elise Brown",
-    companyUrl: "https://google.com",
+      "Developed novel algorithms for prediction of PM 2.5 concentration in the environment.",
+    advisor: "Prof. Sachida Nand Tripathi & Prof. Piyush Rai",
+    companyUrl: "www.iitk.ac.in",
+  },
+  {
+    date: "Summer 2021",
+    title: "Software Development Engineering Intern",
+    company: "Linkedin Corporation",
+    description:
+      "Worked on developing text-to-image geneative models using GANs.",
+    manager: "Vipin Gupta",
+    companyUrl: "https://linkedin.com",
+  },
+  {
+    date: "Summer 2017",
+    title: "Summer Intern",
+    company: "Indian Statistical Institute, Kolkata",
+    description:
+      "Worked on developing classical solutions to unconstrained video recognition using SIFT and HOG features.",
+    manager: "Prof. Partha Pratim Mohanty",
+    companyUrl: "https://isical.ac.in",
   },
 ];

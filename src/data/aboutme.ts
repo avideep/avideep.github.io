@@ -23,16 +23,15 @@ export const aboutMe: AboutMe = {
   institution: "Dolby Laboratories Inc.",
   // Note that links work in the description
   description:
-    "I'm a Senior AI Researcher at Dolby Laboratories Inc. working on Generative modelling and Computer Vision. Previously I was a PhD student in the Department of Computer Science and Engineering at IIT Kanpur where I was advised by Prof. Piyush Rai and Prof. Vinay P. Namboodiri (University of Bath).",
+    "I'm a Senior AI Researcher at <a href='www.dolby.com'>Dolby Laboratories Inc.</a> working on Generative modelling and Computer Vision. Previously I was a PhD student in the <a href='www.cse.iitk.ac.in'>Department of Computer Science and Engineering</a> at <a href='www.iitk.ac.in'>IIT Kanpur</a> where I was advised by <a href='https://www.cse.iitk.ac.in/users/piyush/'>Prof. Piyush Rai</a> and <a href='https://vinaypn.github.io/'>Prof. Vinay P. Namboodiri</a> <a href='https://www.bath.ac.uk/departments/department-of-computer-science/'>(University of Bath)</a>.",
   email: "[first_name]dot[last_name]@dolby.com",
-  imageUrl:
-    "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  imageUrl:"https://i.ibb.co/27XX9zF/IMG-3864.jpg",
   googleScholarUrl: "https://scholar.google.com/citations?user=kvAHwoYAAAAJ&hl=en",
   githubUsername: "avideep",
   linkedinUsername: "avideep",
   twitterUsername: "avideeptweets",
-  blogUrl: "https://",
-  cvUrl: "https://",
+  //blogUrl: "https://",
+  cvUrl: "https://www.dropbox.com/scl/fi/qt8vcpte3bhtrkixm04y6/Resume.pdf?rlkey=e0upn1l43zenjaipbg3myxnwd&st=nfyqdga6&dl=0",
   institutionUrl: "https://www.dolby.com",
   // altName: "",
   // secretDescription: "I like dogs.",
