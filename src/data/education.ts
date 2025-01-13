@@ -14,6 +14,7 @@ export const educationData: Education[] = [
     institution: "Indian Institute of Technology Kanpur",
     degree: "Integrated M.Tech. - Ph.D. in Computer Science and Engineering",
     advisor: "Prof. Piyush Rai & Prof. Vinay P. Namboodiri (University of Bath)",
+    thesis: "Towards Expressive and Compact Deep Generative Models: Attentive Flows and Block-wise Diffusion Models",
   },
   {
     year: "2016—2018",
